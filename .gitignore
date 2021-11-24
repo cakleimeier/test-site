@@ -1,0 +1,14 @@
+/.env
+/public/.htaccess
+/config/license.key
+/.idea
+/vendor
+.DS_Store
+web.config
+
+# Uploaded assets
+/public/uploads
+
+# Compiled files
+/public/cpresources
+/vendor

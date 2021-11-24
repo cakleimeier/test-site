@@ -1,0 +1,31 @@
+dateModified: 1637783003
+email:
+  fromEmail: catherine.kleimeier@gmail.com
+  fromName: 'Test Site'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    41dc4ac0-5a8f-4b2d-8d68-1e8c952f261e: Common # Common
+    91bf867d-1afa-470e-83d7-cee2bfdd88a5: 'Test Site' # Test Site
+    b2f70fe5-c58a-4f26-90eb-63208522e1c1: 'Test Site' # Test Site
+plugins:
+  minify:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  twigpack:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'Test Site'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
